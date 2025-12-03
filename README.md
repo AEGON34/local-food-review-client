@@ -2,7 +2,7 @@
 
 A community-driven MERN platform where food lovers can share their local food experiences, post reviews with photos, discover trending dishes, and connect with nearby food enthusiasts.
 
-# 🌐 Live Site:https:[//sparkly-creponne-572d5c.netlify.app/](https://local-food-reviewb496e2.netlify.app/)
+# 🌐 Live Site:(https://local-food-reviewb496e2.netlify.app/)
 
 # 🖼️ Project Overview
 
